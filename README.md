@@ -1,9 +1,8 @@
 <h1 align="center">Hey devs, I'm Harsh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=Learning%20and%20building%20Web3%20Products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=500&lines=Learning%20and%20building%20Web3%20Products." alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🚀 Currently Learning
@@ -15,6 +14,7 @@
 ---
 
 ### 🧩 Tech Stack
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/UI/UX-FF4088?style=for-the-badge&logo=Adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
   
-
+</p>
 ---
 
 ### 🧪 Stats
