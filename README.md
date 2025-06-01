@@ -1,7 +1,7 @@
 <h1 align="center">Hey devs, I'm Harsh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=Learning+and+building+Web3+Products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=Learning%20and%20building%20Web3%20Products." alt="Typing SVG" />
 </p>
 
 ---
@@ -15,12 +15,17 @@
 ---
 
 ### 🧩 Tech Stack
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
-![Hardhat](https://img.shields.io/badge/-Hardhat-F5F5F5?style=flat&logo=ethereum)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-F5F5F5?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-FF4088?style=for-the-badge&logo=Adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+  
 
 ---
 
