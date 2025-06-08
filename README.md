@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 Currently Learning
-- 🔐 `Civic Auth` (Account Abstraction Standard)
+- 🔐 `Civic Auth` (Embedded Wallets)
 
 ### 🛠️ Currently Building
 - 🧠 `Askesis` — A Web3 knowledge product
