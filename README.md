@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 Currently Learning
-- 🔐 `Civic Auth` (Embedded Wallets)
+- 🔐 `Civic Auth and Pass` (Embedded Wallets)
 
 ### 🛠️ Currently Building
 - 🧠 `Askesis` — A Web3 knowledge product
