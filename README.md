@@ -3,10 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Learning%20and%20building%20Web3%20Products." alt="Typing SVG" />
 </p>
----
 
 ### 🚀 Currently Learning
-- 🔐 `ERC-4337` (Account Abstraction Standard)
+- 🔐 `Civic Auth` (Account Abstraction Standard)
 
 ### 🛠️ Currently Building
 - 🧠 `Askesis` — A Web3 knowledge product
