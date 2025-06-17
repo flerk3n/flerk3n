@@ -5,10 +5,10 @@
 </p>
 
 ### 🚀 Currently Learning
-- 🔐 `MetaMask SDK` (Embedded Wallets)
+- 🔐 `MetaMask SDK` (Cards and LI.FI)
 
 ### 🛠️ Currently Building
-- 🧠 'MusicNAD' - Music guessing Platform for both web3 and web2
+- 🧠 `MusicNAD` - Music guessing Platform for both web3 and web2
 
 ---
 
