@@ -5,10 +5,10 @@
 </p>
 
 ### 🚀 Currently Learning
-- 🔐 `Civic Auth and Pass` (Embedded Wallets)
+- 🔐 `MetaMask SDK` (Embedded Wallets)
 
 ### 🛠️ Currently Building
-- 🧠 `Askesis` — A Web3 knowledge product
+- 🧠 'MusicNAD' - Music guessing Platform for both web3 and web2
 
 ---
 
