@@ -8,7 +8,7 @@
 - 🔐 `MetaMask SDK` (Cards and LI.FI)
 
 ### 🛠️ Currently Building
-- 🧠 `MusicNAD` - Music guessing Platform for both web3 and web2
+- 🧠 `Askesis` - Gen AI + Web3 Learning Platform
 
 ---
 
