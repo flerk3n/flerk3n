@@ -8,7 +8,7 @@
 - 🔐 `MetaMask SDK` (Cards and LI.FI)
 
 ### 🛠️ Currently Building
-- 🧠 `Smack-a-Moji` - Whack A Mole game on React Native
+- 🧠 `Askesis` - web3 product
 
 ---
 
