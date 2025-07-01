@@ -8,7 +8,7 @@
 - 🔐 `MetaMask SDK` (Cards and LI.FI)
 
 ### 🛠️ Currently Building
-- 🧠 `Askesis` - web3 product
+- 🧠 `tasQ` - Ultra Minimalist Task Manager app
 
 ---
 
