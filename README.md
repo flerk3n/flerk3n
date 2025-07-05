@@ -5,10 +5,10 @@
 </p>
 
 ### 🚀 Currently Learning
-- 🔐 `MetaMask SDK` (Cards and LI.FI)
+- 🔐 Mantle Network
 
 ### 🛠️ Currently Building
-- 🧠 `tasQ` - Ultra Minimalist Task Manager app
+- 🧠 `TwitchUp` - Letting Twitch Streamers get Donations using Nostr. 
 
 ---
 
