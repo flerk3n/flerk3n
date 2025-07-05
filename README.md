@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 Currently Learning
-- 🔐 Mantle Network
+- 🔐 `Mantle Network`
 
 ### 🛠️ Currently Building
 - 🧠 `TwitchUp` - Letting Twitch Streamers get Donations using Nostr. 
