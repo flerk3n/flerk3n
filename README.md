@@ -5,10 +5,10 @@
 </p>
 
 ### 🚀 Currently Learning
-- 🔐 `Cross-chain bridging`
+- 🔐 `LLM core`
 
 ### 🛠️ Currently Building
-- 🧠 `TwitchUp` - Letting Twitch Streamers get Donations using Nostr. 
+- 🧠 `Upsndown` - Lifestyle Tracker. 
 
 ---
 
