@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 Currently Learning
-- 🔐 `LLM core`
+- 🛢 `Vector DB`
 
 ### 🛠️ Currently Building
 - 🧠 `Upsndown` - Lifestyle Tracker. 
