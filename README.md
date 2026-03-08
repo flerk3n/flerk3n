@@ -8,7 +8,7 @@
 - 🛢 `Vector DB`
 
 ### 🛠️ Currently Building
-- 🧠 `Upsndown` - Lifestyle Tracker. 
+- 🧠 `Upsndown` - AI Lifestyle Tracker. 
 
 ---
 
