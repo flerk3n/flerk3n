@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 Currently Learning
-- 🛢 `Vector DB`
+- 🛢 `UPI payment architecture`
 
 ### 🛠️ Currently Building
 - 🧠 `Upsndown` - AI Lifestyle Tracker. 
