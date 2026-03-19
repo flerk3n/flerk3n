@@ -8,7 +8,7 @@
 - 🛢 `UPI payment architecture`
 
 ### 🛠️ Currently Building
-- 🧠 `Upsndown` - AI Lifestyle Tracker. 
+- 🧠 `Nuance` - Stealth App. 
 
 ---
 
