@@ -47,5 +47,5 @@ I build full-stack products end-to-end from architecture to deployment. Most rec
 - 🧠 `Reporto` - Medical reports, made human. 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flerk3n&show_icons=true&hide_border=true&theme=default" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756376-208fc571-7ef0-4214-8995-d2c9de519ea4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3NTUzMjIsIm5iZiI6MTc3NTc1NTAyMiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzYtMjA4ZmM1NzEtN2VmMC00MjE0LTg5OTUtZDJjOWRlNTE5ZWE0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDE3MTcwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViNjE0MWZlMzMwZTU2YTE5N2I3MTgzMGExNGE0NDBkYTVkNzdjNjI0Njk4ODFhYmU4MjJhOTE0YWYzZjg5YzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8CYNOUPXLT-bq8RYL3U1cbv7sjVgqFzarS9rZ5_V9sQ" width="100%" />
 </p>
