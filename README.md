@@ -1,18 +1,34 @@
-<h1 align="center">Hey devs, I'm Harsh 👋</h1>
+<h1 align="center">Harsh Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Learning%20and%20building%20AI-Driven%20Products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+that+ship.;Team+Lead+%E2%86%92+Architect+%E2%86%92+Founder.;Monoliths+to+microservices.+MVPs+to+production." alt="Typing SVG" />
 </p>
 
-### 🚀 Currently Learning
-- 🛢 `UPI payment architecture`
-
-### 🛠️ Currently Building
-- 🧠 `Reporto` - Medical reports, made human. 
+<p align="center">
+  <a href="https://linkedin.com/in/flerk3n"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/flerk3n"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:harshrj.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🧩 Tech Stack
+### What I do
+
+I build full-stack products end-to-end — from architecture to deployment. Most recently led a cross-functional engineering team at a NYC-based startup, shipped an AI-powered CRM on React Native, and migrated a flagship product from monolith to microservices on AWS. Before that, freelanced on MVPs that helped startups close early-stage funding.
+
+2 granted patents. Multiple hackathon wins. Founded a 200+ member cybersecurity community.
+
+---
+
+### 🔨 Currently Building
+
+- **Reporto** — Medical reports, made human. AI-powered health document interpreter.
+- Exploring UPI payment architecture
+
+---
+
+### 🛠 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -32,9 +48,21 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG%20%2F%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
 ---
 
-### 📫 Reach Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/flerk3n)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/flerk3n)
+### 📈 A few numbers
 
+| What | Impact |
+|---|---|
+| Monolith → microservices migration | 99.9% uptime sustained |
+| CI/CD pipeline overhaul | 40% fewer deployment bugs |
+| AI CRM shipped on React Native | 30% workflow efficiency gain |
+| Full-stack MVPs for startups | 24% faster time-to-market avg |
+| Stripe payment integration | 27% checkout conversion lift |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flerk3n&show_icons=true&hide_border=true&theme=default" />
+</p>
