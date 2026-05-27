@@ -11,7 +11,7 @@
 
 ### What I do
 
-I build full-stack products end-to-end from architecture to deployment. Most recently led a cross-functional engineering team at a NYC-based startup, shipped an AI-powered CRM on React Native, and migrated a flagship product from monolith to microservices on AWS. Before that, freelanced on MVPs that helped startups close early-stage funding mostly including SaaS above RAG/LLM.
+I build full-stack products end-to-end from architecture to deployment. Most recently led a cross-functional engineering team at a NYC-based startup. Before that, freelanced on MVPs that helped startups close early-stage funding mostly including SaaS above RAG/LLM.
 
 2 granted patents. Multiple hackathon wins. Founded a 200+ member cybersecurity community.
 
