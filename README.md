@@ -1,8 +1,5 @@
 <h1 align="center">Harsh Raj</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+that+ship.;Team+Lead+%E2%86%92+Architect+%E2%86%92+Founder.;Monoliths+to+microservices.+MVPs+to+production." alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/flerk3n"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -39,12 +36,6 @@ I build full-stack products end-to-end from architecture to deployment. Most rec
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG%20%2F%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-
-### 🚀 Currently Learning
-- 🛢 `UPI payment architecture`
-
-### 🛠️ Currently Building
-- 🧠 `Reporto` - Medical reports, made human. https://reporto-one.vercel.app/
 
 
 ---
