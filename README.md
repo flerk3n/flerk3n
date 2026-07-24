@@ -15,8 +15,6 @@ I build full-stack products end-to-end from architecture to deployment. Most rec
 
 2 granted patents. Multiple hackathon wins. Founded a 200+ member cybersecurity community.
 
-Currently Building : [Reporto](https://reporto-one.vercel.app)
-
 
 ---
 ### 🧩 Tech Stack
