@@ -21,11 +21,11 @@ I build full-stack products end-to-end from architecture to deployment. Most rec
 
 - [**Softline**](https://play.google.com/store/apps/details?id=com.chapterone.atlas&hl=en_IN) - Agentic CRM that does everything for your business.
 
-- [**Reporto**](https://reporto-one.vercel.app/) - Reporto transforms complex clinical medical reports into clear, empathetic, and visually engaging stories that anyone can understand.
-
 - [**Cruxer**](https://cruxer.site) - A job description is only the starting point. Cruxer traces the product, the moment, and the team around it then turns that research into a sharp plan you can actually use.
 
 - [**Llama 360**](https://llama-360.vercel.app/) - An AI-Powered Multi-Agent Solution for Retail Banking Products.
+
+- [**Reporto**](https://reporto-one.vercel.app/) - Reporto transforms complex clinical medical reports into clear, empathetic, and visually engaging stories that anyone can understand.
 
 - [**Alien Hillride**](https://alien-hillride.vercel.app/) - A browser-based hill climbing game with controller support, built using only HTML, CSS, and JavaScript. It features an AI system that detects why you crashed and gives smart tips to avoid future accidents.
 
