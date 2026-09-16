@@ -15,6 +15,23 @@ I build full-stack products end-to-end from architecture to deployment. Most rec
 
 2 granted patents. Multiple hackathon wins. Founded a 200+ member cybersecurity community.
 
+---
+
+### Some cool things i've built
+
+- [**Softline**](https://play.google.com/store/apps/details?id=com.chapterone.atlas&hl=en_IN) - Agentic CRM that does everything for your business.
+
+- [**Reporto**](https://reporto-one.vercel.app/) - Reporto transforms complex clinical medical reports into clear, empathetic, and visually engaging stories that anyone can understand.
+
+- [**Cruxer**](https://cruxer.site) - A job description is only the starting point. Cruxer traces the product, the moment, and the team around it then turns that research into a sharp plan you can actually use.
+
+- [**Llama 360**](https://llama-360.vercel.app/) - An AI-Powered Multi-Agent Solution for Retail Banking Products.
+
+- [**Alien Hillride**](https://alien-hillride.vercel.app/) - A browser-based hill climbing game with controller support, built using only HTML, CSS, and JavaScript. It features an AI system that detects why you crashed and gives smart tips to avoid future accidents.
+
+- [**ExtraDotted**](https://extra-dotted.vercel.app/) - A responsive dot portrait renderer that converts images into geometric art on HTML canvas. Export as PNG, SVG, ASCII, or CSS, with built-in support for braille conversion and tactile printing.
+
+- [**Smack-A-Moji**](https://smack-a-moji.vercel.app/) - A fun, fast-paced whack-a-mole style game featuring animated emoji characters. Tap quickly, beat the timer, and score high in this addictive React Native experience.
 
 ---
 ### 🧩 Tech Stack
