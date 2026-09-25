@@ -19,7 +19,7 @@ I build full-stack products end-to-end from architecture to deployment. Most rec
 
 ### Some cool things i've built
 
-- [**Softline**](https://play.google.com/store/apps/details?id=com.chapterone.atlas&hl=en_IN) - Agentic CRM that does everything for your business.
+- [**Softline**](https://play.google.com/store/apps/details?id=com.chapterone.atlas&hl=en_IN) - Agentic CRM that does everything for your business (B2B SaaS).
 
 - [**Cruxer**](https://cruxer.site) - A job description is only the starting point. Cruxer traces the product, the moment, and the team around it then turns that research into a sharp plan you can actually use.
 
