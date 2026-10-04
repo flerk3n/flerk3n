@@ -13,13 +13,15 @@
 
 I build full-stack products end-to-end from architecture to deployment. Most recently led a cross-functional engineering team at a NYC-based startup. Before that, freelanced on MVPs that helped startups close early-stage funding mostly including SaaS above RAG/LLM.
 
-2 granted patents. Multiple hackathon wins. Founded a 200+ member cybersecurity community.
+2 granted patents. A reasearch paper published on Springer. Multiple hackathon wins. Founded a 200+ member cybersecurity community.
 
 ---
 
 ### Some cool things i've built
 
 - [**Softline**](https://play.google.com/store/apps/details?id=com.chapterone.atlas&hl=en_IN) - Agentic CRM that does everything for your business (B2B SaaS).
+
+- [**Callie**](https://callie-calls.vercel.app/) - A voice agent that helps you manage your calendar and memory using RAG and webhooks.
 
 - [**Cruxer**](https://cruxer.site) - A job description is only the starting point. Cruxer traces the product, the moment, and the team around it then turns that research into a sharp plan you can actually use.
 
